@@ -1,0 +1,6 @@
+name: hTotem
+author: MrWiZoX
+version: 1.0
+main: fr.mrwizox.totem.MainTotem
+commands:
+ totem:
