@@ -5,4 +5,4 @@
 * Server: `Hazonia`
 * Language: `French`
 * ---------------
-* Old Plugin for Hazonia 2017
+* Old Plugin for Hazonia 2015
